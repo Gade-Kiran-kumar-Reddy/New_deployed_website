@@ -210,7 +210,7 @@ export default function Portfolio() {
               <a href="https://www.linkedin.com/in/kiran-kumar-reddy-gade-6b7267329/" target="_blank" rel="noopener noreferrer" className="hover:underline text-green-400">linkedin.com/in/kiran-kumar-reddy-gade</a>
             </p>
             <p className="flex justify-center items-center gap-2"><FaGithub className="text-black" />
-              <a href="https://github.com/kirankumargade" target="_blank" rel="noopener noreferrer" className="hover:underline text-green-400">github.com/kirankumargade</a>
+              <a href="https://github.com/Gade-Kiran-kumar-Reddy" target="_blank" rel="noopener noreferrer" className="hover:underline text-green-400">github.com/kirankumarreddygade</a>
             </p>
           </div>
           <div className="mt-6">© {new Date().getFullYear()} Kiran Kumar Reddy Gade</div>
